@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="608bf0d2-27ae-44ab-8f92-0e507d55e4ae" name="Default Changelist" comment="Commit 1">
+      <change afterPath="$PROJECT_DIR$/../Anonimtype/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Anonimtype/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Anonimtype/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Anonimtype/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Anonimtype/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Anonimtype/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Anonimtype/Anonimtype.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Anonimtype/out/production/Anonimtype/com/company/Abletoeat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Anonimtype/out/production/Anonimtype/com/company/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Anonimtype/out/production/Anonimtype/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Anonimtype/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arraylist/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arraylist/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arraylist/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arraylist/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arraylist/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arraylist/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arraylist/Arraylist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arraylist/out/production/Arraylist/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arraylist/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrayss/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrayss/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrayss/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrayss/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrayss/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrayss/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrayss/Arrayss.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrayss/out/production/Arrayss/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrayss/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/.idea/artifacts/Book_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/.idea/libraries/Spring_MVC_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/Book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-aop-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-aspects-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-beans-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-context-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-context-support-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-core-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-expression-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-instrument-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-jdbc-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-jms-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-messaging-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-orm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-oxm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-test-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-tx-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-web-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-webmvc-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-webmvc-portlet-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/lib/spring-websocket-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/dataSources/a5e2bcf1-64cc-48b8-9baf-3f7f8f154699.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/dataSources/a5e2bcf1-64cc-48b8-9baf-3f7f8f154699/storage_v2/_src_/database/postgres1.2JvSdw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/dataSources/a5e2bcf1-64cc-48b8-9baf-3f7f8f154699/storage_v2/_src_/database/postgres1.2JvSdw/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/dataSources/a5e2bcf1-64cc-48b8-9baf-3f7f8f154699/storage_v2/_src_/database/postgres1.2JvSdw/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/dataSources/a5e2bcf1-64cc-48b8-9baf-3f7f8f154699/storage_v2/_src_/database/postgres1.2JvSdw/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/dataSources/a5e2bcf1-64cc-48b8-9baf-3f7f8f154699/storage_v2/_src_/database/postgres1.2JvSdw/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/dataSources/a5e2bcf1-64cc-48b8-9baf-3f7f8f154699/storage_v2/_src_/database/postgres1.2JvSdw/schema/pg_temp_1.zkWuFg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/dataSources/a5e2bcf1-64cc-48b8-9baf-3f7f8f154699/storage_v2/_src_/database/postgres1.2JvSdw/schema/pg_toast.33HYYw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/dataSources/a5e2bcf1-64cc-48b8-9baf-3f7f8f154699/storage_v2/_src_/database/postgres1.2JvSdw/schema/pg_toast_temp_1.5ixBaA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/dataSources/a5e2bcf1-64cc-48b8-9baf-3f7f8f154699/storage_v2/_src_/database/postgres1.2JvSdw/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/dictionaries/gaziz.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/Borash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/src/main/java/com/example/sweater/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/src/main/java/com/example/sweater/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/src/main/java/com/example/sweater/domain/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/src/main/java/com/example/sweater/repos/MessageRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/src/main/resources/templates/greeting.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/src/main/resources/templates/main.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/target/classes/templates/greeting.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Borash/target/classes/templates/main.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckedandUnchecked/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckedandUnchecked/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckedandUnchecked/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckedandUnchecked/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckedandUnchecked/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckedandUnchecked/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckedandUnchecked/CheckedandUnchecked.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckedandUnchecked/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comparable/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comparable/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comparable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comparable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comparable/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comparable/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comparable/Comparable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comparable/out/production/Comparable/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comparable/out/production/Comparable/com/company/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comparable/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comperator/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comperator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comperator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comperator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comperator/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comperator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comperator/Comperator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comperator/out/production/Comperator/com/company/BackwardsIntegerComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comperator/out/production/Comperator/com/company/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comperator/out/production/Comperator/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comperator/out/production/Comperator/com/company/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comperator/out/production/Comperator/com/company/StringLengthComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Comperator/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructor/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructor/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructor/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructor/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructor/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructor/Constructor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructor/out/production/Constructor/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructor/out/production/Constructor/com/company/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructor/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDownLatch/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDownLatch/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDownLatch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDownLatch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDownLatch/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDownLatch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDownLatch/CountDownLatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDownLatch/out/production/CountDownLatch/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDownLatch/out/production/CountDownLatch/com/company/Processor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CountDownLatch/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeadLock/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeadLock/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeadLock/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeadLock/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeadLock/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeadLock/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeadLock/DeadLock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeadLock/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exeption/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exeption/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exeption/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exeption/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exeption/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exeption/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exeption/Exeption.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exeption/out/production/Exeption/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exeption/out/production/Exeption/com/company/ScannerExeption.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exeption/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exeption/src/com/company/ScannerExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibonacci/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibonacci/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibonacci/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibonacci/out/production/Fibonacci/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibonacci/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Finally key word/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Finally key word/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Finally key word/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Finally key word/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Finally key word/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Finally key word/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Finally key word/Finally key word.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Finally key word/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/Function.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Function/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/java/com/example/sweater/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/java/com/example/sweater/config/MailConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/java/com/example/sweater/config/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/java/com/example/sweater/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/java/com/example/sweater/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/java/com/example/sweater/controller/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/java/com/example/sweater/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/java/com/example/sweater/domain/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/java/com/example/sweater/domain/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/java/com/example/sweater/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/java/com/example/sweater/repos/MessageRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/java/com/example/sweater/repos/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/java/com/example/sweater/service/MailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/java/com/example/sweater/service/UserSevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/resources/db/migration/V1__Init_DB.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/resources/db/migration/V2__Add_admin.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/resources/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/resources/templates/greeting.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/resources/templates/login.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/resources/templates/main.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/resources/templates/parts/common.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/resources/templates/parts/login.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/resources/templates/parts/navbar.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/resources/templates/parts/security.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/resources/templates/profile.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/resources/templates/registration.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/resources/templates/userEdit.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GExamples/src/main/resources/templates/userList.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generic/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generic/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generic/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generic/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generic/Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generic/out/production/Generic/com/company/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generic/out/production/Generic/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generic/out/production/Generic/com/company/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generic/src/com/company/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generic/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generic/src/com/company/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GeronTest/src/main/java/String2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GeronTest/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GeronTest/target/classes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GeronTest/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HakkerRank/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HakkerRank/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HakkerRank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HakkerRank/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HakkerRank/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HakkerRank/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HakkerRank/HakkerRank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HakkerRank/out/production/HakkerRank/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HakkerRank/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMapAndTree/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMapAndTree/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMapAndTree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMapAndTree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMapAndTree/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMapAndTree/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMapAndTree/HashMapAndTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMapAndTree/out/production/HashMapAndTree/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMapAndTree/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashcodeandEquals/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashcodeandEquals/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Starter/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/com/company/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList2/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-test-app/.idea/dictionaries/gaziz.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-test-app/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-test-app/src/main/java/com/example/sweater/domain/dto/CaptchaResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-test-app/src/main/resources/freemarker_implicit.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-test-app/target/classes/com/example/sweater/config/MvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-test-app/target/classes/com/example/sweater/controller/MainController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-test-app/target/classes/com/example/sweater/service/MailSender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-test-app/target/classes/com/example/sweater/service/UserSevice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-test-app/target/classes/freemarker_implicit.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springtest/.idea/dictionaries/gaziz.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springtest/target/spring-test/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../str/str.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/config/EncriptionConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/config/MailConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/config/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/controller/ControllerUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/controller/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/domain/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/domain/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/domain/dto/CaptchaResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/repos/MessageRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/repos/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/service/MailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/java/com/example/sweater/service/UserSevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/db/migration/V1__Init_DB.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/db/migration/V2__Add_admin.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/db/migration/V3__Encode_passwords.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/db/migration/V4__Add_subscriptions_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/templates/greeting.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/templates/login.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/templates/main.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/templates/parts/common.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/templates/parts/login.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/templates/parts/messageEdit.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/templates/parts/messageList.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/templates/parts/navbar.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/templates/parts/security.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/templates/profile.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/templates/registration.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/templates/subscriptions.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/templates/userEdit.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/templates/userList.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/src/main/resources/templates/userMessages.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tentid/tentid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/src/com/company/Linkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/src/com/company/Smart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../when/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../when/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../when/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../when/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../when/when.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../фор/.idea/artifacts/web_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../фор/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../фор/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../фор/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../фор/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../фор/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../фор/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../фор/.idea/scopes/scope_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../фор/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../фор/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../фор/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../фор/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Multidimensional_array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="MrGaziz &lt;gazizbs5@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Multidimensional_array.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Foreach12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Foreach12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Foreach12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Foreach12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Multidimensional_array">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Foreach12" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multidimensional_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multidimensional_array" />
+      <module name="Foreach12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Multidimensional_array" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Multidimensional_array" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="608bf0d2-27ae-44ab-8f92-0e507d55e4ae" name="Default Changelist" comment="" />
+      <created>1572979604796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572979604796</updated>
+      <workItem from="1572979608708" duration="1643000" />
+      <workItem from="1573138816681" duration="3447000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit 1">
+      <created>1573144728107</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573144728107</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5090000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Multidimensional_array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_201</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Foreach12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
